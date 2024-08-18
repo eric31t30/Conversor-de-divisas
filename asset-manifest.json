@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Conversor-de-divisas/static/css/main.885a0291.css",
-    "main.js": "/Conversor-de-divisas/static/js/main.b6ca0977.js",
+    "main.js": "/Conversor-de-divisas/static/js/main.6491cbde.js",
     "static/media/arrows-rotate-svgrepo-com.svg": "/Conversor-de-divisas/static/media/arrows-rotate-svgrepo-com.cd858f8e1f38292df5ca0c922e1d74ca.svg",
     "index.html": "/Conversor-de-divisas/index.html",
     "main.885a0291.css.map": "/Conversor-de-divisas/static/css/main.885a0291.css.map",
-    "main.b6ca0977.js.map": "/Conversor-de-divisas/static/js/main.b6ca0977.js.map"
+    "main.6491cbde.js.map": "/Conversor-de-divisas/static/js/main.6491cbde.js.map"
   },
   "entrypoints": [
     "static/css/main.885a0291.css",
-    "static/js/main.b6ca0977.js"
+    "static/js/main.6491cbde.js"
   ]
 }
